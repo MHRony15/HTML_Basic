@@ -1,0 +1,28 @@
+
+    
+        body{
+            background-color: beige;
+            color: skyblue;
+        }
+        h1{
+            color: red;
+            background-color: gainsboro;
+        }
+        p{
+            color: magenta;
+            border: 1px solid blue;
+            font-family: cursive;
+            font-size: 100%;
+            padding: 10px;
+            margin: 10px;
+            margin-top: 20px;
+            
+            
+        }
+    
+    
+#r1{
+   color: green;
+    font-family: monospace;
+    border: 0;
+}
